@@ -1,6 +1,17 @@
 # compiled output
 /dist
 /node_modules
+/postgres
+/test
+.agents
+.agents/
+.claude
+.claude/
+.cursor
+.cursor/
+.devin
+.devin/
+.env
 
 # Logs
 logs
